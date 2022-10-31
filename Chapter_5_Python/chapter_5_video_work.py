@@ -13,13 +13,19 @@ height = 73
 # Must be 5 feet tall to ride my ride
 # Must be under 6 feet tall to ride
 
-if height < 60:
-    print("You are too short.")
-    print("I am sorry , but get off of my ride!")
+#if height < 60:
+#    print("You are too short.")
+#    print("I am sorry , but get off of my ride!")
 
-elif height > 72:
-    print("You are too tall.")
-    print("Get off my ride!")
-else:
-    print("Enjoy the ride!")
-print("Thanks for visiting")
+#elif height > 72:
+#    print("You are too tall.")
+#    print("Get off my ride!")
+#else:
+#    print("Enjoy the ride!")
+#print("Thanks for visiting")
+
+
+
+a_list = [1, 2, 7, 3, 4]
+print(sorted(a_list))
+print(sorted(a_list)== a_list)

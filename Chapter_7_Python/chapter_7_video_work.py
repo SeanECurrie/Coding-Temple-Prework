@@ -18,13 +18,14 @@
 #print("Thanks for coming!")
 
 
-while True:
-    response = input("What do you want to do? Say hi[ h], Say goodbye[g], or Quit[q]? ")
-    if response.lower() == "h":
-        print("hello")
-    elif response.lower() == "g":
-        print("goodbye")
-    elif response.lower() == "q":
-        break
-    else:
-        print("invalid option")
+#while True:
+#    response = input("What do you want to do? Say hi[ h], Say goodbye[g], or Quit[q]? ")
+#    if response.lower() == "h":
+#        print("hello")
+#    elif response.lower() == "g":
+#        print("goodbye")
+#    elif response.lower() == "q":
+#        break
+#    else:
+#        print("invalid option")
+
